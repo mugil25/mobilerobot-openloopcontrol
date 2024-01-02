@@ -12,8 +12,8 @@ Step4: Open the other Python files and Program the movements of the robot using 
 Step5: Execute the python program and record the movements.
 ## Program
 ```python
-## Developed By:PREM KUMAR G
-## Reference Number:23003614
+## Developed By:MUGIL M
+## Reference Number:23008346
 from robomaster import robot
 import time
 from robomaster import camera
@@ -89,8 +89,8 @@ https://youtu.be/AEPxrGjeM18?si=xIFC1maQlvaobrt8
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 ```
 Mobile Robotics Laboratory
-PREMKUMAR G
-23003614
+MUGIL M
+23008346
 Department of Artificial Intelligence and Data Science/ Machine Learning
 Saveetha Engineering College
 ```
